@@ -1,5 +1,3 @@
-Modules and the customizer are for numbers you already decided. One solid that exports is enough for the first file. A mesh you do not own is not a script to claim. Change a number you can measure, save the script, and export again. The mesh is not the file you edit.
-
 # OpenSCAD - A Shape Described in a Script You Wrote
 
 ![OpenSCAD with a short script and the solid it generated](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYFf9R3oQy_jvpRm8J9vO3AxfvixT_oE07MKGVLZONMmNt_WHsZNYVSVl&s=10)
